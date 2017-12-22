@@ -7,7 +7,8 @@ IMPORTANT:
 * Once the Google Maps API Key, HERE App ID and HERE App Code are obtained, insert them in the appropriate fields in the file - 'config.py' in the directory - 'scripts'.
 
 * From 'scripts' directory, find 'geocode.py'
-* Run 'geocode.py' using Python 2.7 
-  $ python geocode.py
+* Run 'geocode.py' using Python 2.7 : $ python geocode.py
   
-  
+The following screenshots show different cases of running the service:
+
+ geocoding-proxy/screenshots/mode_1_gmaps.png 
