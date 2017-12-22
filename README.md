@@ -11,4 +11,4 @@ IMPORTANT:
   
 The following screenshots show different cases of running the service:
 
- geocoding-proxy/screenshots/mode_1_gmaps.png 
+![alt text](https://github.com/asunilgc/geocoding-proxy/blob/master/screenshots/mode_1_gmaps.png?raw=true)
