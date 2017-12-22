@@ -141,6 +141,9 @@ def main():
     #Prompt till user decides to stop
     ans = str(raw_input("Continue? (Y/N)"))
     if ans == 'Y' or ans == 'y':
+        del flat[:]
+        del flon[:]
+        del fadd[:]
         main()
 
 
